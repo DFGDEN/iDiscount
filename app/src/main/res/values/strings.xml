@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">iDIscount</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- main activity -->
+    <string name="nav_drawer_about">Контактная информация</string>
+    <string name="nav_drawer_apartments">Объявления</string>
+    <!--  -->
+
+    <!-- ad fragment -->
+    <string name="ad_count_default">Обновите данные</string>
+    <string name="ad_count">%1$s объявлений</string>
+    <string name="ad_title">Список квартир</string>
+    <!--  -->
+
+    <!-- about fragment -->
+    <string name="about_title">Контактные данные</string>
+    <!--  -->
+
+    <!-- ad adaptor -->
+    <string name="ad_common_price">%1$.0f $ %2$,.0f р.</string>
+    <string name="ad_certain_price">%1$.2f р.</string>
+    <string name="ad_info">"%1$sUP! "</string>
+    <string name="ad_agent">Агент</string>
+    <!--  -->
+
+    <!-- renttype class -->
+    <string name="rent_type_room">комната</string>
+    <string name="rent_type_room_1">1к</string>
+    <string name="rent_type_room_2">2к</string>
+    <string name="rent_type_room_3">3к</string>
+    <string name="rent_type_room_4">4к</string>
+    <string name="rent_type_room_5">5к</string>
+    <string name="rent_type_room_6">6к</string>
+    <string name="rent_type_room_7">7к</string>
+    <string name="rent_type_room_8">8к</string>
+    <string name="rent_type_room_9">9к</string>
+    <!--  -->
+
+    <!-- date_format util -->
+    <string name="timeutils_weekago">неделю назад</string>
+    <string name="timeutils_21weeksago">более %1$s недели назад</string>
+    <string name="timeutils_weeksago">более %1$s недель назад</string>
+    <string name="timeutils_rightnow">только что</string>
+    <string name="timeutils_minago">минуту назад</string>
+    <string name="timeutils_hourago">час назад</string>
+    <string name="timeutils_dayago">день назад</string>
+    <string name="timeutils_21daysago">более %1$s дня назад</string>
+    <string name="timeutils_daysago">более %1$s дней назад</string>
+    <string name="timeutils_21hoursago">более %1$s час назад</string>
+    <string name="timeutils_hoursago">более %1$s часов назад</string>
+    <string name="timeutils_21minutsago">более %1$s минуты назад</string>
+    <string name="timeutils_minutsago">более %1$s минут назад</string>
+    <!--  -->
+
+    <!-- REST manager -->
+    <string name="rest_error_connection">Ошибка подключения к интернету</string>
+    <string name="rest_error_bad_data">Неправильный формат данных</string>
+    <string name="rest_error_bad_server_connection">Ошибка подключения к серверу</string>
+
+    <!--  -->
+
+
+</resources>
